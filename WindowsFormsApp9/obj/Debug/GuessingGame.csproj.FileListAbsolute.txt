@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.form1.resources
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\User\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
